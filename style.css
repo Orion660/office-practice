@@ -1,0 +1,33 @@
+.container{
+	width: 100%;
+	max-width: all;
+}
+
+.nav{
+	display: flex;
+	align-items: space-between;
+}
+
+.aboutus{
+	display: flex;
+	align-items: flex-start;
+}
+
+.img{
+	display: flex;
+	justify-content: space-between;
+}
+.table{
+	background-color: blue;
+	border: none;
+	margin-top: 10px;
+	/*display: flex;
+	justify-content: space-between;*/
+}
+
+#item{
+	display: flex;
+	justify-content: space-between;
+
+}
+
